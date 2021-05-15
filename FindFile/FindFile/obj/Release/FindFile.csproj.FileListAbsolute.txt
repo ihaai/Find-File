@@ -1,0 +1,6 @@
+C:\Users\hrist\source\repos\FindFile\FindFile\bin\Release\FindFile.exe.config
+C:\Users\hrist\source\repos\FindFile\FindFile\bin\Release\FindFile.exe
+C:\Users\hrist\source\repos\FindFile\FindFile\bin\Release\FindFile.pdb
+C:\Users\hrist\source\repos\FindFile\FindFile\obj\Release\FindFile.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\FindFile\FindFile\obj\Release\FindFile.exe
+C:\Users\hrist\source\repos\FindFile\FindFile\obj\Release\FindFile.pdb
